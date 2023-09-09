@@ -19,7 +19,8 @@ stack<int> s2;
             s2.pop();
         }
     }
-    
+     
+     
     int pop() {
         int curr=s1.top();
         s1.pop();
